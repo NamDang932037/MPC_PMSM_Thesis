@@ -17,7 +17,8 @@ This repository contains the full implementation and related materials for the p
 
 ![Vel_SCurved](https://github.com/user-attachments/assets/26f3dc91-2973-4a04-92e4-d0d639cbb7d2)
 
-![Torque_Scurved](https://github.com/user-attachments/assets/c3897601-e09a-4763-ba1c-bf6e018b5d87)
+![Torque_Scurved_Real](https://github.com/user-attachments/assets/795f8766-475d-4bb4-9f1d-17c40e15bb7a)
+
 
 # LSPB Trajectory
 ![Pos_LSPB](https://github.com/user-attachments/assets/90034016-bc4d-4b86-a6da-e9e4db638e2d)
