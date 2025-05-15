@@ -13,6 +13,7 @@ Velocity tracking RMS error: under 5 rpm
 This repository contains the full implementation and related materials for the project.
 
 # S-Curve Trajectory
+Youtube: https://youtu.be/O0D5yTFCWQQ
 ![Pos_SCurved](https://github.com/user-attachments/assets/267ad7a0-36c9-4b51-8081-252a84105c23)
 
 ![Vel_SCurved](https://github.com/user-attachments/assets/26f3dc91-2973-4a04-92e4-d0d639cbb7d2)
@@ -21,6 +22,7 @@ This repository contains the full implementation and related materials for the p
 
 
 # LSPB Trajectory
+Youtube: https://youtu.be/Kms6YSJUPL8
 ![Pos_LSPB](https://github.com/user-attachments/assets/90034016-bc4d-4b86-a6da-e9e4db638e2d)
 
 ![Vel_LSPB](https://github.com/user-attachments/assets/c6933c3a-afcb-4818-b038-61ad650ed30c)
@@ -29,6 +31,7 @@ This repository contains the full implementation and related materials for the p
 
 
 # Sin Trajectory
+Youtube: https://youtu.be/0ToDRJ_wPmI
 ![Sine_Pos](https://github.com/user-attachments/assets/c156894b-75c2-4df9-99f7-b890c18f1512)
 
 ![Sine_Vel](https://github.com/user-attachments/assets/74bf6663-e9c1-4609-97df-481e4a33a9b8)
@@ -36,6 +39,7 @@ This repository contains the full implementation and related materials for the p
 ![Sine_Torque](https://github.com/user-attachments/assets/b632fe9d-3bea-494a-97b5-c1adf472ef7a)
 
 # Step Trajectory
+Youtube: https://youtu.be/O0D5yTFCWQQ
 ![Step_Velo](https://github.com/user-attachments/assets/290fbc58-aa04-49ba-952c-c806b6644571)
 
 ![StepTorque](https://github.com/user-attachments/assets/c15f93e1-dd16-47dd-bc1f-5ecde4c21d07)
