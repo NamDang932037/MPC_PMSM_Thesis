@@ -13,7 +13,7 @@ Velocity tracking RMS error: under 5 rpm
 This repository contains the full implementation and related materials for the project.
 
 # S-Curve Trajectory
-Youtube: https://youtu.be/O0D5yTFCWQQ
+Youtube: https://youtu.be/lXlkpqpEZ-0
 ![Pos_SCurved](https://github.com/user-attachments/assets/267ad7a0-36c9-4b51-8081-252a84105c23)
 
 ![Vel_SCurved](https://github.com/user-attachments/assets/26f3dc91-2973-4a04-92e4-d0d639cbb7d2)
