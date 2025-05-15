@@ -24,7 +24,8 @@ This repository contains the full implementation and related materials for the p
 
 ![Vel_LSPB](https://github.com/user-attachments/assets/c6933c3a-afcb-4818-b038-61ad650ed30c)
 
-![Te_LSPB](https://github.com/user-attachments/assets/9043d747-9c04-4c02-8dbe-4752e75b2873)
+![Te_LSPB](https://github.com/user-attachments/assets/4d25a41f-ed74-4321-a788-3a45851d22d2)
+
 
 # Sin Trajectory
 ![Sine_Pos](https://github.com/user-attachments/assets/c156894b-75c2-4df9-99f7-b890c18f1512)
