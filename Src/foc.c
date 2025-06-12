@@ -74,8 +74,8 @@ void analog_sample (ControllerStruct *controller){
 	}
 
 	controller->i_a =  (float)(controller->adc_a_offset - controller->adc_a_raw)*I_SCALE;
-	controller->i_c =  (float)(controller->adc_b_offset - controller->adc_b_raw)*I_SCALE;
-	controller->i_b =  (float)(controller->adc_c_offset - controller->adc_c_raw)*I_SCALE;
+	controller->i_b =  (float)(controller->adc_b_offset - controller->adc_b_raw)*I_SCALE;
+	controller->i_c =  (float)(controller->adc_c_offset - controller->adc_c_raw)*I_SCALE;
 
 	controller->v_bus = (float)controller->adc_vbus_raw*V_SCALE;
 	ExponentialFilter(controller,0.001);
